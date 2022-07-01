@@ -1,0 +1,54 @@
+.Titulos{
+  text-align: center;
+  background-color: black;
+  color: wheat;
+  padding: 80px;
+}
+
+.Origami-Cuadro{
+  border: 2px solid #808080;
+  text-align: center;
+  padding: 10px;
+}
+
+
+
+.hr{
+  margin: 60px;
+}
+
+.General-Precios{
+  text-align: center;
+}
+
+.Titulo-Precios{
+  padding: 20px;
+}
+
+.Precios{
+  padding: 20px;
+}
+
+.Precios-1{
+  font-size: 20px;
+}
+
+.Info-Precios{
+  font-size: 15px;
+}
+
+.footer{
+  padding: 70px;
+  color: rgb(56, 56, 56);
+  text-align: center;
+}
+
+.contacto{
+  font-size: 15px;
+  padding: 5px;
+}
+
+.Copy{
+  text-align: center;
+  padding: 40px;
+}
