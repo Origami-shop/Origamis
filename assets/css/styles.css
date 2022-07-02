@@ -1,8 +1,16 @@
 .Titulos{
-  text-align: center;
-  background-color: #252525;
-  color: white;
-  padding: 80px;
+  text-align: left;
+  background-color: #212F3C;
+  color: #CACFD2;
+  padding: 90px;
+}
+
+.Titulos-1{
+  font-size: 40px;
+}
+
+.Titulos-2{
+  padding: 10px;
 }
 
 .Origami-Cuadro{
